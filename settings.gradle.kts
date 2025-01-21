@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "CmpNativeAndroidSample"
-include(":app")
- 
+include(":app", ":composeApp")
